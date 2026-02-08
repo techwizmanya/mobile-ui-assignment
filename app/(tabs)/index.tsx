@@ -13,7 +13,7 @@ export default function Index() {
     <ScrollView style={styles.container}>
       {/* Header */}
       <View style={styles.header}>
-        <Text style={styles.headerText}>Instagram</Text>
+        <Text style={styles.headerText}>Instagram Clone</Text>
       </View>
 
       {/* Story Section */}
